@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\AbstractClassesDemo.csproj",
+      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
       "projectName": "AbstractClassesDemo",
-      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\AbstractClassesDemo.csproj",
+      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
       "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\obj\\",
+      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
