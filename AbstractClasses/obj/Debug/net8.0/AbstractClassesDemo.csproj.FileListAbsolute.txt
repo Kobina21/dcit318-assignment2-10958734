@@ -1,0 +1,14 @@
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\bin\Debug\net8.0\AbstractClassesDemo.exe
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\bin\Debug\net8.0\AbstractClassesDemo.deps.json
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\bin\Debug\net8.0\AbstractClassesDemo.runtimeconfig.json
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\bin\Debug\net8.0\AbstractClassesDemo.dll
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\bin\Debug\net8.0\AbstractClassesDemo.pdb
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.AssemblyInfoInputs.cache
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.AssemblyInfo.cs
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.dll
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\refint\AbstractClassesDemo.dll
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.pdb
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\AbstractClassesDemo.genruntimeconfig.cache
+C:\Users\FORSON\Documents\GitHub\New folder\New folder\obj\Debug\net8.0\ref\AbstractClassesDemo.dll
