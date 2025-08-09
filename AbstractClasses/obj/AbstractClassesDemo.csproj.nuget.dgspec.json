@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj": {}
+    "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj": {
+    "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
+        "projectUniqueName": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
         "projectName": "AbstractClassesDemo",
-        "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
+        "projectPath": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\AbstractClassesDemo.csproj",
         "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\obj\\",
+        "outputPath": "c:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\AbstractClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
