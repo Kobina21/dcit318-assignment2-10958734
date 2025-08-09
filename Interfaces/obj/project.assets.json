@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\Interfaces\\Interfaces.csproj",
+      "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
