@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\InheritanceandMethodOverriding\\InheritanceDemo.csproj": {}
+    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\InheritanceandMethodOverriding\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\InheritanceandMethodOverriding\\InheritanceDemo.csproj": {
+    "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\InheritanceandMethodOverriding\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\InheritanceandMethodOverriding\\InheritanceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\InheritanceandMethodOverriding\\InheritanceDemo.csproj",
         "projectName": "InheritanceDemo",
-        "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\InheritanceandMethodOverriding\\InheritanceDemo.csproj",
+        "projectPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\InheritanceandMethodOverriding\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\FORSON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\New folder\\New folder\\InheritanceandMethodOverriding\\obj\\",
+        "outputPath": "C:\\Users\\FORSON\\Documents\\GitHub\\dcit318-assignment2-10958734\\InheritanceandMethodOverriding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FORSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
